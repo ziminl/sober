@@ -1,5 +1,7 @@
 # <img width="48" src="sober.svg">   Sober
 
+https://flathub.org/setup/Debian
+
 Sober lets users visit Roblox experiences on their Linux desktops.
 
 Not affiliated with Roblox.
